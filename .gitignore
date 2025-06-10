@@ -1,0 +1,5 @@
+*flutter-plugins
+*flutter-plugins-dependencies
+build/
+android/app/.cxx
+.dart_tool/
