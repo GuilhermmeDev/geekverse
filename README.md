@@ -24,8 +24,8 @@ GeekVerse é uma rede social moderna e interativa desenvolvida com **Flutter**, 
 
 Este projeto foi desenvolvido em colaboração com:
 
-- **[Guilherme Morais (GuilhermmeDev)](https://github.com/GuilhermmeDev)** – Desenvolvedor Flutter e responsável pela maior parte da estruturação do projeto.
-- **[Pedro Chaves](https://github.com/PedroChaves-dev)** – Contribuiu significativamente para o desenvolvimento das telas, integrações com o Firebase e recursos de UI/UX.
+- **[Guilherme Morais (GuilhermmeDev)](https://github.com/GuilhermmeDev)**
+- **[Gustavo Chaves](https://github.com/Gustavo7327)**
 
 ## 📚 Contexto acadêmico
 
